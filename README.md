@@ -1,1 +1,1 @@
-this a 
+It is a backend Spring Boot Project of Employee where ( CRUD )  Create, Read, Update and Delete operations are performed in Employee Record and MySql database is used to store records. And the FrontEnd part you can access on Front end repository which is made in React JS. 
